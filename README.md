@@ -6,7 +6,7 @@ Hello, I'm Inigo. Data analyst with expertise in data analysis, reporting, manip
  + Data analysis and reporting using Excel
 
 ## Projects
-Here are my [projects]([https://github.com/ipadernal?tab=projects](https://github.com/ipadernal/Data_Science_Portfolio/tree/main)]).
+Here are my recent [projects](https://github.com/ipadernal/Data_Science_Portfolio/tree/main).
 
 ## Tools 
  + Language: SQL, Python
