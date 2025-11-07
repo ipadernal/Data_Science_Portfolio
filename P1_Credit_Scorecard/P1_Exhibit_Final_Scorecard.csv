@@ -1,0 +1,19 @@
+DTI_Category,derived_race,Total_Applications,Total_Denials,Denial_Rate
+High/Watch,2 or more minority races,1602,692,43.2
+High/Watch,American Indian or Alaska Native,4357,1838,42.2
+High/Watch,Asian,74769,19633,26.3
+High/Watch,Black or African American,22340,8254,36.9
+High/Watch,Free Form Text Only,356,175,49.2
+High/Watch,Joint,14349,3213,22.4
+High/Watch,Native Hawaiian or Other Pacific Islander,2394,969,40.5
+High/Watch,Race Not Available,128454,39399,30.7
+High/Watch,White,234111,63875,27.3
+Low/Standard,2 or more minority races,385,149,38.7
+Low/Standard,American Indian or Alaska Native,1213,437,36.0
+Low/Standard,Asian,21319,3516,16.5
+Low/Standard,Black or African American,4531,1442,31.8
+Low/Standard,Free Form Text Only,70,37,52.9
+Low/Standard,Joint,5952,798,13.4
+Low/Standard,Native Hawaiian or Other Pacific Islander,539,191,35.4
+Low/Standard,Race Not Available,34960,8177,23.4
+Low/Standard,White,76391,14047,18.4
