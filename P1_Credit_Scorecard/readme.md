@@ -11,15 +11,23 @@ Simulate Risk Analyst role through python and pandas, developing a simplified cr
 
 ## Key Deliverables and Findings
 **1. Visualization** 
- Barchart visually separates denial rates, highlights where risk is concentrated
+ 
+    Barchart visually separates denial rates, highlights where risk is concentrated
+ 
  **2. Variance Report**
- Highest denial rate is observed in the 'Free Form Text Only' group within the 'Low/Standard' DTI category, at a peak rate of 52.9%
+   
+    Highest denial rate is observed in the 'Free Form Text Only' group within the 'Low/Standard' DTI category, at a peak rate of 52.9%
+ 
+ 
  **3. Final Output**
- The aggregated scorecard is exported for immediate use in reporting tools:
- *P1_Exhibit_Final_Scorecard.csv*
+   
+    The aggregated scorecard is exported for immediate use in reporting tools: *P1_Exhibit_Final_Scorecard.csv*
 
- ##Tools
+ ## Tools
  + Language: Python
  + Libraries: Pandas, Matplotlib, Seaborn
  + Environment: Jupyter Notebooks (VS Code)
  + Version Control: Git
+
+## Data Source
+ + [Home Mortgage Discolsure Act (HMDA) Loan Data](https://ffiec.cfpb.gov/data-browser/data/2023?category=states)
